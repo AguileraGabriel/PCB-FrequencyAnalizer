@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "ee33e596-f028-4153-8401-1b2d2b28a96c")
+	(uuid "bef494eb-e241-4188-b0f7-c06bda831091")
 	(paper "A4")
 	(title_block
 		(title "Analizador de Respuesta en Frecuencia")

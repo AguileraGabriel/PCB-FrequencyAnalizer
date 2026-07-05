@@ -86,6 +86,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 83.82) (xy 189.23 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35343d53-c757-47e4-9cb2-24d30ffa6fc0")
+	)
+	(wire
+		(pts
 			(xy 93.98 116.84) (xy 78.74 116.84)
 		)
 		(stroke
@@ -316,6 +326,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 87.63) (xy 189.23 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9eb3b2f-a47f-47c7-8fe9-80233c11cfb5")
+	)
+	(wire
+		(pts
 			(xy 93.98 74.93) (xy 86.36 74.93)
 		)
 		(stroke
@@ -343,6 +363,16 @@
 			(type default)
 		)
 		(uuid "ef3318d9-1d06-416e-85ec-9a3fb698e6dc")
+	)
+	(wire
+		(pts
+			(xy 170.18 91.44) (xy 189.23 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f47a29e7-c105-4bcb-b4e3-bbf9a893155e")
 	)
 	(wire
 		(pts
@@ -579,6 +609,36 @@
 				(justify left)
 			)
 		)
+		(pin "GPIO5/ADC1_CH4" bidirectional
+			(at 189.23 83.82 180)
+			(uuid "d5e85d61-cff3-45ea-89b9-f7ef0823ed3f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO6/ADC1_CH5" bidirectional
+			(at 189.23 87.63 180)
+			(uuid "82c1d539-2130-4bab-be4e-d1912967121d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO7/ADC1_CH6" bidirectional
+			(at 189.23 91.44 180)
+			(uuid "dfb4db0b-8721-4ddd-a766-7e0d4638e434")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "TD3-FrequencyAnalizer"
 				(path "/a065938d-2c0d-4c5d-95e3-516a33097e24"
@@ -780,6 +840,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "GPIO5/ADC1_CH4" bidirectional
+			(at 170.18 83.82 0)
+			(uuid "999e6367-efa7-4716-9545-6f765cbaf579")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO6/ADC1_CH5" bidirectional
+			(at 170.18 87.63 0)
+			(uuid "7c50e455-8d20-4ee5-ad30-eee6fd300570")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO7/ADC1_CH6" bidirectional
+			(at 170.18 91.44 0)
+			(uuid "51d1c103-819c-425d-833f-3abcc1a215fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
