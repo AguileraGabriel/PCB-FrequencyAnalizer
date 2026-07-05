@@ -1015,6 +1015,167 @@
 			(embedded_fonts no)
 		)
 	)
+	(no_connect
+		(at 168.91 124.46)
+		(uuid "159ffc5c-a0fa-4c85-b59d-def2b9b1df95")
+	)
+	(no_connect
+		(at 168.91 76.2)
+		(uuid "16daed1e-72db-42c2-a925-013d71018846")
+	)
+	(no_connect
+		(at 118.11 50.8)
+		(uuid "1b3b2e28-c4cd-4e3f-98e0-525c1fd32094")
+	)
+	(no_connect
+		(at 144.78 45.72)
+		(uuid "1c2513b4-0874-437f-9c7d-a4f0e2fadd79")
+	)
+	(no_connect
+		(at 168.91 104.14)
+		(uuid "27865e4f-173b-4e8c-9f01-d958072fdf29")
+	)
+	(no_connect
+		(at 168.91 116.84)
+		(uuid "2dca4c68-c499-4ae7-97a0-fe42053b2801")
+	)
+	(no_connect
+		(at 168.91 60.96)
+		(uuid "3160d609-3a22-4b71-b3ab-db47a222347b")
+	)
+	(no_connect
+		(at 168.91 132.08)
+		(uuid "356dead2-ff17-4fc6-9ed5-934b995762a0")
+	)
+	(no_connect
+		(at 168.91 111.76)
+		(uuid "4a54e7d4-b50a-4c5c-b015-740b125ac49b")
+	)
+	(no_connect
+		(at 168.91 91.44)
+		(uuid "4c35b247-7d4b-4b2a-a31f-653fa8a18b81")
+	)
+	(no_connect
+		(at 118.11 73.66)
+		(uuid "526b45bf-bfd5-47cf-8d64-aebacdd8a817")
+	)
+	(no_connect
+		(at 168.91 106.68)
+		(uuid "5b085c99-f33b-42f3-98df-758759412ee7")
+	)
+	(no_connect
+		(at 118.11 58.42)
+		(uuid "5cff1091-1728-450c-abe8-0f39d1b6aaf7")
+	)
+	(no_connect
+		(at 118.11 68.58)
+		(uuid "5eb17865-2f02-4aca-a64a-0d7d56d4601c")
+	)
+	(no_connect
+		(at 168.91 109.22)
+		(uuid "6255518f-3959-46e1-bdcc-a3207cf28461")
+	)
+	(no_connect
+		(at 168.91 119.38)
+		(uuid "8d6908f5-66dc-4cf7-b1c8-dba7afc6074f")
+	)
+	(no_connect
+		(at 168.91 53.34)
+		(uuid "93bd0351-3eb8-4486-a1df-630da7ac2fb5")
+	)
+	(no_connect
+		(at 168.91 101.6)
+		(uuid "96ef5f0d-3f09-4945-b137-48760af6be3a")
+	)
+	(no_connect
+		(at 168.91 129.54)
+		(uuid "9df18e2f-e93c-46b0-8a1d-6f0df4c6e19e")
+	)
+	(no_connect
+		(at 168.91 68.58)
+		(uuid "a28fb196-19b5-4c05-8cbc-2d56231a0dc8")
+	)
+	(no_connect
+		(at 168.91 50.8)
+		(uuid "b271f65a-e88b-41c2-be46-7cd67c94be18")
+	)
+	(no_connect
+		(at 168.91 71.12)
+		(uuid "d3b2873c-501e-47cc-9310-33dd376beef3")
+	)
+	(no_connect
+		(at 118.11 60.96)
+		(uuid "d429bfc7-12c9-4578-8e8a-a06274822a85")
+	)
+	(no_connect
+		(at 168.91 127)
+		(uuid "d43ffe6c-6842-4a8c-998a-93aca910f895")
+	)
+	(no_connect
+		(at 168.91 58.42)
+		(uuid "d87d620e-d854-4e44-8d1d-dbd8537dbc18")
+	)
+	(no_connect
+		(at 168.91 88.9)
+		(uuid "dd7688fa-acf0-4c08-9f7c-d6f391f9efc2")
+	)
+	(no_connect
+		(at 118.11 71.12)
+		(uuid "dec4c611-18cf-419e-bfbc-5024178f732f")
+	)
+	(no_connect
+		(at 168.91 114.3)
+		(uuid "e2a0e2dc-2679-48a1-907d-76df7c47979c")
+	)
+	(no_connect
+		(at 168.91 121.92)
+		(uuid "e7fc88cd-0d59-456c-acec-cd5f5f0724dc")
+	)
+	(no_connect
+		(at 118.11 76.2)
+		(uuid "f95c0fa3-49b0-4949-a360-17844a75ca5a")
+	)
+	(wire
+		(pts
+			(xy 143.5862 221.0562) (xy 298.5262 221.0562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e2191f-32e0-4f82-bff0-17869753d156")
+	)
+	(wire
+		(pts
+			(xy 298.5262 221.0562) (xy 298.5262 143.5862)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdd597c0-1f58-43a3-b74e-334274328a6d")
+	)
+	(wire
+		(pts
+			(xy 143.5862 196.9262) (xy 143.5862 221.0562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1de30b3-1b82-47a5-a32d-0aa0d12889cb")
+	)
+	(hierarchical_label "GPIO5/ADC1_CH4"
+		(shape bidirectional)
+		(at 168.91 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "146745cb-a59b-4f96-9b15-6096748e1b1d")
+	)
 	(hierarchical_label "5V"
 		(shape input)
 		(at 142.24 45.72 90)
@@ -1048,6 +1209,28 @@
 		)
 		(uuid "46a4c89a-efb5-4ccb-8889-52232e92f2b5")
 	)
+	(hierarchical_label "GPIO4/ADC1_CH3"
+		(shape bidirectional)
+		(at 168.91 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57d19f97-0330-44a9-a973-6ec4b517503b")
+	)
+	(hierarchical_label "GPIO7/ADC1_CH6"
+		(shape bidirectional)
+		(at 168.91 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7cb57395-f0fb-42a6-986a-ef8b9e29d09b")
+	)
 	(hierarchical_label "GPIO1/ADC1_CH0"
 		(shape bidirectional)
 		(at 168.91 71.12 0)
@@ -1080,6 +1263,17 @@
 			(justify left)
 		)
 		(uuid "ce1e825c-a105-47e2-a961-c3137924cab4")
+	)
+	(hierarchical_label "GPIO6/ADC1_CH5"
+		(shape bidirectional)
+		(at 168.91 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6b12a03-9e4e-4d28-8072-794dcce52fe1")
 	)
 	(symbol
 		(lib_id "power:GND")

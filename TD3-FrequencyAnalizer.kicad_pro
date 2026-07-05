@@ -650,7 +650,7 @@
         "uuid": "a065938d-2c0d-4c5d-95e3-516a33097e24"
       }
     ],
-    "used_designators": "U1-6,J1-3,R1-24,TP1-3,RV1-4,C1-14,#PWR1-32,D1-2",
+    "used_designators": "U1-6,J1-3,R1-34,TP1-8,RV1-7,C1-14,#PWR1-35,D1-4,K1,Q1",
     "variants": []
   },
   "sheets": [
@@ -668,11 +668,15 @@
     ],
     [
       "d1cb2c0f-6a73-4008-a5b9-6ed353495939",
-      "Alimentación"
+      "Alimentación y Conectores"
     ],
     [
       "358950e3-ee0e-45ed-b080-da4fc5a5149a",
       "Señal de Salida"
+    ],
+    [
+      "3f8c10ed-701c-4724-907b-f90e6ba9ca83",
+      "Medición de Señal Inyectada"
     ]
   ],
   "text_variables": {},
